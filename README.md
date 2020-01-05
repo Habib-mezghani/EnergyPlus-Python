@@ -2,7 +2,7 @@
 
 This python notebook is used for this article :
 
-https://habib-mezghani.github.io/MyWEBSITE/project/energy-plus-with-python/
+https://habib-mezghani.github.io/MyWEBSITE1/project/energy-plus-with-python/
 
 ## Installation of relevant package
 
